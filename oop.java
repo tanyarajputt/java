@@ -9,7 +9,7 @@ public class oop {
     }
     public static void main(String[] args) {
 
-        scanner obj = new scanner(System.in)
+        oop obj = new oop();
     //     oop obj= new oop();
     //     //sum(5);
     //  obj.sum();
