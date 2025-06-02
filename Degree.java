@@ -24,7 +24,7 @@ public class Degree {
         System.out.println("Celsius: " + temp.getCelsius());
         System.out.println("Fahrenheit: " + temp.getFahrenheit());
 
-        temp.setCelsius(90);
+        temp.setCelsius(90 );
         System.out.println("Updated Celsius: " + temp.getCelsius());
         System.out.println("Updated Fahrenheit: " + temp.getFahrenheit());
     }
